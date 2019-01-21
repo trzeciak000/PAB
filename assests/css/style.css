@@ -1,0 +1,23 @@
+.btn-share{
+  margin-bottom: 20px;
+}
+
+#div-center{
+  width: 100%;
+  text-align: center;
+}
+
+.div-center{
+  text-align: center;
+}
+.panel{
+  width: 100%;
+}
+
+.panel2{
+  width: 75%;
+}
+
+.alert-danger{
+  width: 75%;
+}
